@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(white,rgb(106, 242, 106));
+    background-repeat: no-repeat;
+    height:900px
+    
+}
+
+.container {
+    
+    width: 600px;
+}
+
+.form-control {
+    margin-top: 20px;
+    margin-bottom: -35px;
+
+   
+}
+
+.form-select {
+
+    margin-bottom: -50px;
+
+
+}
+
+.bth {
+
+    margin-top: 60px;
+}
